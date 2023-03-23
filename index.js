@@ -1,4 +1,3 @@
-
 const employee = {
     name: "Sam",
     streetAddress:"Eluid",
